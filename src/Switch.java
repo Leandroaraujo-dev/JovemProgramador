@@ -12,6 +12,9 @@ public class Switch {
 
         opcao = sc.nextInt();
 
+
+
+        
         switch (opcao){
             case 1:
                 conceito = "Domingo";
